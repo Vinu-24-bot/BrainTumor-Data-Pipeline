@@ -1,0 +1,10 @@
+streamlit
+numpy
+matplotlib
+SimpleITK
+Pillow
+opencv-python
+pydicom
+apache-beam[gcp]
+google-cloud-storage
+google-cloud-bigquery
