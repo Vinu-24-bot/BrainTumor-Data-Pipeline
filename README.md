@@ -1,6 +1,8 @@
 # BrainTumor-Data-Pipeline
 Automated MRI ingestion &amp; preprocessing workflows (DICOM → Cloud Storage → Dataflow → BigQuery).
 
+SEE MY APP : https://brain-tumor-detection-nxpvmgwawy8psciajc39sk.streamlit.app/
+
 # BrainTumor Data Pipeline
 
 End‑to‑end MRI workflow: DICOM → Cloud Storage → Dataflow (Apache Beam) → BigQuery, plus an interactive Streamlit app for region‑growing segmentation and insights. Offloading preprocessing to Dataflow accelerates app‑side exploration and can significantly reduce per‑image processing time.
